@@ -10,7 +10,7 @@ Default Envirionment port is **5000**. This can be changed from .env file.
 API requests have been tested on Postman. 
 The dummy JSON database is located at ./backend/testData.json.
 
-[Book controller](./controllers/bookController.js) has route functionalities.
+[Book controller](./backend/controllers/bookController.js) has route functionalities.
 
-[Routes](./routes/bookRoutes.js) has API routes.
+[Routes](./backend/routes/bookRoutes.js) has API routes.
 
